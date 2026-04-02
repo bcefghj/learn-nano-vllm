@@ -92,7 +92,7 @@
 
 ```bash
 # 克隆本学习指南
-git clone https://github.com/bcefghj/learn-nano-vllm-interview.git
+git clone https://github.com/bcefghj/learn-nano-vllm.git
 
 # 克隆 nano-vllm 源码
 git clone https://github.com/GeeeekExplorer/nano-vllm.git
